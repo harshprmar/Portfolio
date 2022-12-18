@@ -1,2 +1,2 @@
 # Portfolio
-Made my personal Portfolio
+Made my Personal Portfolio
